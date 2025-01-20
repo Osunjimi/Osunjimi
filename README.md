@@ -16,7 +16,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 I'm currently learning: **📚 PHP**
-- 💬 Ask me about: ** Frontend development (HTML, CSS, Bootstrap, JS) or starting with PHP**
+- 💬 Ask me about: Frontend development (HTML, CSS, Bootstrap, JS) or starting with PHP
 
  **<h3 align="left">Skills</h3>**
 
